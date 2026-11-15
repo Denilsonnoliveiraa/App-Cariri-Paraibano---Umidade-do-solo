@@ -1047,7 +1047,7 @@ with abas[0]:
             "orcid": "0000-0002-4832-0711"
         },
         {
-            "nome": "Débora de Sousa Cordeiro",
+            "nome": "Débora Cordeiro de Sousa",
             "instituicao": "UEPB",
             "vinculo": "Departamento de Estatística",
             "localizacao": "Campina Grande, Paraíba, Brasil",
